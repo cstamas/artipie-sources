@@ -16,3 +16,15 @@
 [submodule "artipie"]
 	path = artipie
 	url = git@github.com:artipie/artipie.git
+[submodule "components/management-api"]
+	path = components/management-api
+	url = git@github.com:artipie/management-api.git
+[submodule "components/vertx-server"]
+	path = components/vertx-server
+	url = git@github.com:artipie/vertx-server.git
+[submodule "components/files-adapter"]
+	path = components/files-adapter
+	url = git@github.com:artipie/files-adapter.git
+[submodule "adapters/npm-adapter"]
+	path = adapters/npm-adapter
+	url = git@github.com:artipie/npm-adapter.git
