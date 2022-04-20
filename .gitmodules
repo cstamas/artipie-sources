@@ -1,0 +1,12 @@
+[submodule "components/http"]
+	path = components/http
+	url = git@github.com:artipie/http.git
+[submodule "components/http-client"]
+	path = components/http-client
+	url = git@github.com:artipie/http-client.git
+[submodule "components/asto"]
+	path = components/asto
+	url = git@github.com:artipie/asto.git
+[submodule "adapters/docker-adapter"]
+	path = adapters/docker-adapter
+	url = git@github.com:artipie/docker-adapter.git
