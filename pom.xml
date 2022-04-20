@@ -17,6 +17,7 @@
   </properties>
 
   <modules>
+    <module>ppom</module>
     <module>components</module>
     <module>adapters</module>
     <module>artipie</module>

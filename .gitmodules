@@ -28,3 +28,6 @@
 [submodule "adapters/npm-adapter"]
 	path = adapters/npm-adapter
 	url = git@github.com:artipie/npm-adapter.git
+[submodule "ppom"]
+	path = ppom
+	url = git@github.com:artipie/ppom.git
