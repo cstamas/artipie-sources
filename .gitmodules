@@ -10,3 +10,9 @@
 [submodule "adapters/docker-adapter"]
 	path = adapters/docker-adapter
 	url = git@github.com:artipie/docker-adapter.git
+[submodule "adapters/maven-adapter"]
+	path = adapters/maven-adapter
+	url = git@github.com:artipie/maven-adapter.git
+[submodule "artipie"]
+	path = artipie
+	url = git@github.com:artipie/artipie.git
